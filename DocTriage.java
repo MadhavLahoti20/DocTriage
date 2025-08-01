@@ -6,7 +6,7 @@ public class DocTriage {
     static Map<Integer, Doctor> doctors = new HashMap<>();
     static Map<Integer, Patient> patients = new HashMap<>();
     static List<Appointment> appointments = new ArrayList<>();
-    static Map<String, String> issueToSpecialization = Map.of(
+    static Map<String, String> issueToSpecialization = Map.of( 
         "fever", "General Physician",
         "cold", "General Physician",
         "toothache", "Dentist",
