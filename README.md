@@ -29,9 +29,9 @@
 
 
 ## 🗂 File Structure
-
-├── DocTriage.java          // Main Java file (all logic + classes inside)
-├── patients.csv            // Sample patient data
-├── doctors.csv             // Sample doctor data
-├── appointments.csv        // Sample appointment data
-├── README.md               // Project overview and usage
+DocTriage  
+├── DocTriage.java          → Main Java file (all logic + classes inside)  
+├── patients.csv            → Sample patient data  
+├── doctors.csv             → Sample doctor data  
+├── appointments.csv        → Sample appointment data  
+├── README.md               → Project overview and usage  
